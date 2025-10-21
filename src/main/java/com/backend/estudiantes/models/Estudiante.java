@@ -1,5 +1,4 @@
 package com.backend.estudiantes.models;
-
 import jakarta.persistence.*;
 import lombok.Data;
 
